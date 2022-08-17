@@ -35,7 +35,7 @@ body {
 .header {
   height: 500px;
   font-family: Lato;
-  background: url("https://i.loli.net/2019/07/12/5d288d4b4a6a412359.jpg") -266px -172px;
+  background: url("https://www.fosslinux.com/wp-content/uploads/2021/07/Linux-Penguin.jpg") 50px -172px;
   font-weight: bold;
   display: flex;
   flex-direction: column;
@@ -244,7 +244,7 @@ body {
   align-items: center;
   text-align: center;
   font-family: Lato;
-  background: url("https://i.loli.net/2019/07/12/5d288d4b4a6a412359.jpg") -20px 330px;
+  background: url("https://www.fosslinux.com/wp-content/uploads/2021/07/Linux-Penguin.jpg") 50px 330px;
   font-size: 18px;
   font-weight: bold;
   color: #fff;
@@ -1167,7 +1167,7 @@ img {
   border-radius: 4px;
   background: transparent;
   border: 0;
-  color: #000;
+  color: #666;
   outline: none;
   font-size: 15px;
 }
